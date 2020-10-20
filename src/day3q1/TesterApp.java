@@ -36,6 +36,6 @@ public class TesterApp {
 				break;
 
 		}
-System.out.println("This is a test");
+System.out.println("this is a test");
 	}
 }
