@@ -1,10 +1,13 @@
 package com.book.web;
 
+import java.util.List;
+
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import com.bookapp.dao.Book;
-import com.bookapp.service.BookService;
+import com.bookapp.model.service.BookService;
+
 
 public class Main {
 	
